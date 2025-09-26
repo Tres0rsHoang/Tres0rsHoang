@@ -31,7 +31,7 @@ Currently, I’m focusing on building applications with **Next.js, NestJS, and D
 - Neovim (Lua, LSP, Treesitter)  
 
 <!-- --- -->
-<!---->
+
 <!-- ## 📂 Featured Projects -->
 <!---->
 <!-- - **[Dictionary App](#)** – An English–Vietnamese dictionary website.   -->
@@ -48,4 +48,4 @@ Currently, I’m focusing on building applications with **Next.js, NestJS, and D
 
 ---
 
-⭐️ From [Bao Hoang](https://github.com/your-username)
+⭐️ From [Bao Hoang](https://github.com/Tres0rsHoang)
